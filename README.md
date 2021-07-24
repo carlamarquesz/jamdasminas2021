@@ -1,5 +1,5 @@
 ## Neste jogo de Escape Room, ajude a Ana a sair do escritório por intermédio de diversos puzzles que vão fazer com que ela perceba as situações injustas presentes em seu ambiente de trabalho.
-[![JOGUE](https://img.shields.io/badge/JOGAR-792EE5?style=for-the-badge&)](https://carlsz.itch.io/) 
+[![JOGUE](https://img.shields.io/badge/JOGAR-792EE5?style=for-the-badge&)](https://carlsz.itch.io/stuckatwork-jam) 
 
 <div align="center">
     <img src="img.png" </img> 
